@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8482eaa4-c583-464e-a29e-8bc2818b9457" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week-07.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class_examples/ArrControler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class_examples/EqualizedtheArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class_examples/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class_examples/deleteElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
